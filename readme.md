@@ -11,14 +11,16 @@ Tuần 01: Vẽ các sơ đồ cho đặc tả máy rút tiền tự động (AT
 Công cụ sử dụng:
 
 Enterprise Architect
+
 ![img.png](ImageDiagrams/EALogo.png)
 
-Visual Paradigm  
+Visual Paradigm
+
 ![img.png](ImageDiagrams/VPLogo.png)
 
 ##### 1. Usecase Diagram
 
-![img.png](ImageDiagrams/ATM_Usecase.png)
+![img.png](ImageDiagrams/ATM_UseCase.png)
 
 ##### 2. Activity Diagram
 
@@ -34,4 +36,4 @@ Visual Paradigm
 
 ##### 5. State Diagram
 
-![img.png](ImageDiagrams\ATM_StateDiagram.png)
+![img.png](ImageDiagrams/ATM_StateDiagram.png)
