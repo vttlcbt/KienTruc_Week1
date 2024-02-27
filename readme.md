@@ -14,9 +14,9 @@ Enterprise Architect
 
 ![img.png](ImageDiagrams/EALogo.png)
 
-Visual Paradigm
+Visual Paradigm for UML
 
-![img.png](ImageDiagrams/VPLogo.png)
+![img.png](ImageDiagrams/VPForUMLLogo.png)
 
 ##### 1. Usecase Diagram
 
